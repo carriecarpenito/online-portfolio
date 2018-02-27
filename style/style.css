@@ -1,0 +1,43 @@
+@charset "UTF-8";
+
+body a:hover, a:active {
+    background:url:('home2-1.jpg');
+}
+h1 {
+    font-family: 'Open Sans Condensed', sans-serif;
+    text-align: center;
+    padding: 5px;
+    border: bottom;
+    border-bottom-style: solid;
+    border-bottom-color: #E8E8E8;
+    border-bottom-width: 2px;
+}
+table {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 15px;
+    text-align: center;
+}
+table {
+    width: 100%;
+    float: center;
+    
+}
+img {
+    float: right;
+}
+p {
+    float: left;
+    font-family: 'Crimson Text', serif;
+}
+h3 {
+    margin: 30px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    border-style: solid;
+    border-color: #f9e79f;
+    float: left;
+    padding: 10px
+}
+table a:hover, a:active {
+    text-decoration: underline;
+    text-decoration-color: #f9e79f;
+}
